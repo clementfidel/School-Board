@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>image/logo.png</file>
+    <file>image/epsi.png</file>
+    <file>image/pilier10.png</file>
+    <file>image/logo91.png</file>
+    <file>image/icone.jpg</file>
+    <file>image/logodepd.png</file>
+</qresource>
+</RCC>
